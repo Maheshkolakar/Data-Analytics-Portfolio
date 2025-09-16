@@ -11,7 +11,7 @@ Welcome to my data analytics portfolio. These projects demonstrate my skills in 
 ---
 
 ### 🟢 Excel Projects
-- 📁 [Sales Dashboard in Excel](https://github.com/yourusername/Sales-Dashboard-Excel)  
+- 📁 [Sales Dashboard in Excel](https://github.com/Maheshkolakar/excel-sales-project-practice)  
   👉 Interactive dashboard with slicers, KPIs, and charts for sales insights.
 
 - 📁 [Customer Orders Analysis](https://github.com/yourusername/Excel-Customer-Analysis)  
