@@ -20,7 +20,7 @@ Welcome to my data analytics portfolio. These projects demonstrate my skills in 
 ---
 
 ### 🟡 Python Projects
-- 📁 [CAN Bus Intrusion Detection – Data Analytics]([https://github.com/yourusername/Movie-Analysis-Python](https://github.com/Maheshkolakar/can-bus-intrusion-detection-data-analytics)  
+- 📁 [CAN Bus Intrusion Detection – Data Analytics](https://github.com/Maheshkolakar/can-bus-intrusion-detection-data-analytics)  
   👉 Applied Pandas and NumPy for data preprocessing and exploratory analysis on automotive CAN bus datasets. Built and evaluated ML-based classification models to detect intrusions, showcasing skills in Python, anomaly detection, and real-world automotive cybersecurity use cases.
 
 
